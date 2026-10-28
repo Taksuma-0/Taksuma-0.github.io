@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taksuma-0.github.io/sitemap.xml
+Sitemap: https://taksuma-0.github.io/mi-sii-mcp/sitemap.xml
